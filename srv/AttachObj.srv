@@ -1,0 +1,7 @@
+string object_id
+string frame_id
+string[] touch_links
+bool attach  # true = attach, false = detach
+---
+bool success
+string message

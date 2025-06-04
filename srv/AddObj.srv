@@ -1,0 +1,5 @@
+moveit_msgs/CollisionObject object
+bool add  # true = add, false = remove
+---
+bool success
+string message
